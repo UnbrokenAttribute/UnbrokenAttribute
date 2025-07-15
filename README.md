@@ -8,11 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Tags: **TypeScript**, **NodeJS**, **Fastify**, **ReactJS**, **NextJS**, **TailwindCSS**, **PostgreSQL**, **Redis** e **Vitest**.
 
-## What is Tale from an Unknown World? [🔗](https://github.com/UnbrokenAttribute/TaleFromAnUnknownWorld)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Tags: **TypeScript**, **ReactJS**, **NextJS** e **TailwindCSS**.
-
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,express,react,nextjs,tailwind,git,github,figma,linux,docker)](https://skillicons.dev)
