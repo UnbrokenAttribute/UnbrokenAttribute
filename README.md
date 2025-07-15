@@ -6,8 +6,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## What is Checkers Warriors?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+Tags: **TypeScript**, **NodeJS**, **Fastify**, **ReactJS**, **NextJS**, **TailwindCSS**, **PostgreSQL**, **Redis** e **Vitest**.
+
 ## What is Tale from an Unknown World?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Tags: **TypeScript**, **ReactJS**, **NextJS** e **TailwindCSS**.
 
 ---
 
