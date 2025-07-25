@@ -10,7 +10,7 @@ If you would like to know more about me, feel free to contact me at: contact@vic
 ## What is Checkers Warriors? [🔗](https://github.com/UnbrokenAttribute/Checkers-Warriors)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-**Tags**: TypeScript, NodeJS, Fastify, ReactJS, NextJS, Tailwind CSS, PostgreSQL, Redis, RabbitMQ e Vitest.
+**Tags**: TypeScript, Node.js, Fastify, React.js, Next.js, Tailwind CSS, PostgreSQL, Redis, RabbitMQ e Vitest.
 
 ---
 
