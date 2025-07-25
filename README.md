@@ -1,12 +1,14 @@
 <img src="GitHub Profile Cover.png">
 
 # Who am I?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hello, World! 👋
+
+I'm a full-stack developer with a background in game development. Currently pursuing a Bachelor's in Computer Science at the Federal Institute of Maranhão (IFMA), where I also completed a Technical degree in IT. During my studies, I contributed to projects such as static page development, a cryptography history project, and represented the institute in the 1st National Robotics League.
 
 ## What is Checkers Warriors? [🔗](https://github.com/UnbrokenAttribute/CheckersWarriors)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Tags: **TypeScript**, **NodeJS**, **Fastify**, **ReactJS**, **NextJS**, **TailwindCSS**, **PostgreSQL**, **Redis** e **Vitest**.
+Tags: **TypeScript**, **NodeJS**, **Fastify**, **ReactJS**, **NextJS**, **Tailwind CSS**, **PostgreSQL**, **Redis**, **RabbitMQ** e **Vitest**.
 
 ---
 
